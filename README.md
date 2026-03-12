@@ -54,21 +54,3 @@ The dashboard includes:
 ---
 
 # 📂 Project Structure
-fraud-detection-analytics
-│
-├── data
-│   └── transaction_sample_data.csv
-│
-├── dashboards
-│   └── fraud_detection_dashboard.pbix
-│
-├── scripts
-│   └── fraud_detection_model.py
-│
-├── notebooks
-│   └── exploratory_analysis.ipynb
-│
-├── images
-│   └── dashboard_preview.png
-│
-└── README.md
